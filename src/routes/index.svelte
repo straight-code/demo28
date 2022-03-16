@@ -19,7 +19,7 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		to <br/> straight-code
 	</h1>
 
 	<h2>
